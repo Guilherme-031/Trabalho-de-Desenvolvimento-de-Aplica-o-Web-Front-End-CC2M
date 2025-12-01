@@ -9,7 +9,12 @@ JavaScript para interatividade e dinamismo,
 Bootstrap para criação de layouts responsivos e modernos.
 
 Instruções para execução local:
-O arquivo não apresenta instruções de execução local do projeto.
+ - A pessoa deve ter Git instalado.
+ - Abrir o terminal ou PowerShell;
+- Entrar na pasta onde quer baixar o projeto
+- Rodar: git clone https://github.com/Guilherme-031/Trabalho-de-Desenvolvimento-de-Aplica-o-Web-Front-End-CC2M.git
+Isso criará uma pasta com o projeto dentro.
+Após isso, entre na pasta do projeto e execute o site pelo vs code.
 
 Integrantes do grupo:
 Guilherme Augusto
